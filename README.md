@@ -1,6 +1,6 @@
-# BLENDED LEARNING
 # Implementation of Principal Component Analysis (PCA) for Dimensionality Reduction on Energy Data
-
+### Developed by: Aaron H
+### RegisterNumber:  212223040001
 ## AIM:
 To implement Principal Component Analysis (PCA) to reduce the dimensionality of the energy data.
 
@@ -29,11 +29,7 @@ To implement Principal Component Analysis (PCA) to reduce the dimensionality of 
 
 ## Program:
 ```
-/*
-Program to implement Principal Component Analysis (PCA) for dimensionality reduction on the energy data.
-Developed by: Aaron H
-RegisterNumber:  212223040001
-*/
+# Program to implement Principal Component Analysis (PCA) for dimensionality reduction on the energy data.
 
 # Import necessary libraries
 import pandas as pd
